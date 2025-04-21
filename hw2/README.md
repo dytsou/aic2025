@@ -56,7 +56,6 @@ python src/main.py --env atari --game SpaceInvaders --agent dqn --exploration ep
 Our experiments show:
 - CartPole-v1: Near-optimal performance with mean reward ~93.80
 - MountainCar-v0: 100% success rate with reward shaping
-- Detailed analysis available in [Project Report](report.md)
 
 ## Interactive Evaluation
 
