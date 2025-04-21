@@ -1,0 +1,7 @@
+Environment: mountaincar
+Agent: heuristic
+Exploration: epsilon_greedy
+Training steps: 50000
+Mean reward: -118.40 ± 4.22
+Mean episode length: 118.40
+Success rate: 100.00%

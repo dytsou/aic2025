@@ -1,0 +1,7 @@
+Environment: mountaincar
+Agent: dqn
+Exploration: epsilon_greedy
+Training steps: 10000
+Mean reward: 0.94 ± 0.13
+Mean episode length: 200.00
+Success rate: 100.00%
