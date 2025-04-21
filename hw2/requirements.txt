@@ -1,0 +1,11 @@
+numpy
+matplotlib
+gymnasium
+gymnasium[atari]
+gymnasium[accept-rom-license]
+pygame
+stable-baselines3
+ale-py
+autorom
+autorom[accept-rom-license]
+opencv-python
