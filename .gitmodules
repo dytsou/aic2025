@@ -1,0 +1,3 @@
+[submodule "final_project"]
+	path = final_project
+	url = git@github.com:dytsou/motion-prediction.git
